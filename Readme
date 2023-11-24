@@ -1,0 +1,11 @@
+# Instalar dependencias:
+npm install
+
+# Compile o TypeScript usando o seguinte comando:
+npm run build
+
+# Execute o servidor com:
+npm start
+
+# Servidor
+http://localhost:3000
